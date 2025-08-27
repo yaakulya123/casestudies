@@ -1,5 +1,3 @@
-# casestudies
-
 # Ethical Hacking Test Cases & Case Studies
 
 > ⚠️ **Disclaimer**  

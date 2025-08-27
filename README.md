@@ -1,4 +1,4 @@
-# 🛡️ Ethical Hacking Test Cases & Case Studies
+# Ethical Hacking Test Cases & Case Studies
 
 > ⚠️ **Disclaimer**
 > These exercises are for **educational and ethical purposes only** and must be run **only in an isolated lab** you control. Never target real networks/systems. Obtain written permission for any testing. Avoid using live malware—prefer benign, simulated payloads.
